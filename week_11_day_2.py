@@ -10,8 +10,8 @@ print("You’ll review variables, strings, numbers, and print formatting.\n")
 # Step 1: Create Variables
 # TODO: Replace the values below with your own info
 first_name = "Alexandre"
-age = 30
-favorite_color = "Green"
+age = 15
+favorite_color = "green"
 favorite_number = 67
 
 #  Step 2: Practice String Operations
